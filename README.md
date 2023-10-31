@@ -1,16 +1,13 @@
-### Hi there 👋
+### Bem-vindo(a) ao meu perfil 🫀
+Meu nome é Ana Clara.
 
-<!--
-**AnaaaDias/AnaaaDias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-Utilizo a plataforma alura para estudar linguagens de progeamação.
 
-Here are some ideas to get you started:
+-Estou me desenvolvendo na linguagem,JavaScript, HTMl e CSS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-utilizo esse espaço para minha organização e compartilhamento dos meus projetos.
+
+### Voce pode entrar em contato comigo 📫
+clara.dias.ana@escola.pr.gov.br
+
+![](https://media.tenor.com/miQNVpFQ_FcAAAAC/lmaooooooooooooolol-taehyung-wink.gif)
